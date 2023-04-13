@@ -1,0 +1,41 @@
+.formContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.formText{
+ width: 300px;
+ height: 35px;
+ border: 0.5px solid gray;
+ border-radius: 5px;
+ outline: none;
+ font-size: medium;
+ padding-left: 10px;
+}
+
+.formText:focus{
+    border: 1.5px solid black;
+}
+
+.formBtn{
+border: 2px solid white;
+border-radius: 5px;
+height: 42px;
+width: 100px;
+background: rgb(32, 126, 248);
+color: white;
+font-weight: 700;
+font-size: small;
+margin-left: 3px;
+}
+.formBtn:hover{
+    background: rgb(23, 101, 203);
+    cursor: pointer;
+}
+::placeholder{
+    padding-left: 15px;
+    font-size: medium;
+}

@@ -73,8 +73,4 @@ Tambien debes considerar el siguiente funcionamiento:
 - Instalar dependencias: `npm install` o `yarn install` si usas yarn.
 - Correr el proyecto: `npm start` o `yarn start`.
 
-## Condiciones de entrega
-
-Sube tu respuesta a un repositorio nuevo con acceso público y compártelo vía mail a aarratia@enerlink.com. El plazo de entrega es hasta este lunes 13 de marzo a las 18:00 horas.
-
 ¡Éxito y diviértete!
